@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/common">
+        <file>DebugLine.qml</file>
+        <file>SACRow.qml</file>
+        <file>SACLabel.qml</file>
+        <file>SACRectangle.qml</file>
+        <file>SACImage.qml</file>
+        <file>SACButton.qml</file>
+        <file>SACInputBlock.qml</file>
+        <file>SACScrollBar.qml</file>
+        <file>SACListView.qml</file>
+        <file>SACTextField.qml</file>
+    </qresource>
+</RCC>

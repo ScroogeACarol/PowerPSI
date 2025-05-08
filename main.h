@@ -1,0 +1,11 @@
+#pragma once
+#include "src/QtCommonClass.h"
+#include "src/ApiClient.h"
+#include "src/Data.h"
+#include "src/Interface.h"
+#include "src/ObjectPoint.h"
+#include "src/MainWnd.h"
+#include "src/pane/MenuBar.h"
+#include "src/pane/ArgumentArea.h"
+#include "src/pane/TimeAxisArea.h"
+#include "src/pane/EditableArea.h"
